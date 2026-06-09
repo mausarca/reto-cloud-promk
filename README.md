@@ -1,6 +1,6 @@
 # Reto Ingeniero Cloud - Promarketing Chile - Candidato Mauricio Sarria
 
-¡Te damos la bienvenida a mi solución para el **Reto Ingeniero Cloud** de Promarketing Chile! Este repositorio contiene el diseño arquitectónico, el aprovisionamiento como código (IaC) y la estimación de costos para una operación de **Casino Online** de alta disponibilidad desplegada en la región de Canadá (`ca-central-1`).
+¡Te doy la bienvenida a mi solución para el **Reto Ingeniero Cloud** de Promarketing! Este repositorio contiene el diseño arquitectónico, el aprovisionamiento como código (IaC) y la estimación de costos para una operación de **Casino Online** de alta disponibilidad desplegada en la región de Canadá (`ca-central-1`).
 
 ---
 
